@@ -5,4 +5,8 @@ This game is still in development so there is still not much to discuss on it, I
 ![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(75).png)
 Settings
 ![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(76).png)
+Character Movements and Attack Animation Pics
+![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(77).png)
+![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(78).png)
+![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(81).png)
  I developed this Game using C++ and SFML(library) while taking a reference from a youtube video with implementing and executing in my own way.
