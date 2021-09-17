@@ -1,0 +1,11 @@
+﻿  GameState.cpp
+  TileMap.cpp
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(6,20): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(21,22): warning C4018: '<': signed/unsigned mismatch
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(24,86): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(24,63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\C++ GAMES\SFML-RPG\SFML-RPG\TileMap.cpp(24,42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  SFML-RPG.vcxproj -> D:\C++ GAMES\SFML-RPG\Debug\SFML-RPG.exe
