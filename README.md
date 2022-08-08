@@ -10,3 +10,5 @@ Character Movements and Attack Animation Pics
 ![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(78).png)
 ![image](https://github.com/Akshat69/SFML-RPG/blob/main/Screenshot%20(81).png)
  I developed this Game using C++ and SFML(library) while taking a reference from a youtube video with implementing and executing in my own way.
+Required Libraries : SFML(https://www.sfml-dev.org/download.php)
+To execute : Run "Debug/SFML-RPG.exe" or "Release/SFML-RPG.exe"
